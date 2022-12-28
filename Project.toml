@@ -1,6 +1,6 @@
 name = "GNUMake_jll"
 uuid = "6c1a3432-6b93-5c89-98b5-f3caf0c092ba"
-version = "4.3.0+1"
+version = "4.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,4 +10,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
