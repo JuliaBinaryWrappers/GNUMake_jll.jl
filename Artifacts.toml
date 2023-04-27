@@ -1,143 +1,143 @@
 [[GNUMake]]
 arch = "aarch64"
-git-tree-sha1 = "9a7b1e76a0426111071480b8151e18bbbde980c5"
+git-tree-sha1 = "1910fab4db573e194a3cc68fb662fd2b485de92a"
 os = "macos"
 
     [[GNUMake.download]]
-    sha256 = "c8630a3ead0f37062abd2bbde6667bae70d65444f47f37fa8625f943f36d30ff"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "2bd8f6a7b6902de8ddfd922e0575b800cc1a149ec66f5c4a4208f3b05ddbd258"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.aarch64-apple-darwin.tar.gz"
 [[GNUMake]]
 arch = "aarch64"
-git-tree-sha1 = "b0857985225e7cef104d56f64c7285ea9604eee6"
+git-tree-sha1 = "e89358fe8d2a9aa9e594ba6cdbdc99a2ccb511f0"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "7030c133cf768826dcd170878888c2a2a975e932c265da93883950234fab04a5"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "b916e2fa3aeb751812d9801f7ed38cf096cc0ae26e195f194c688b77ad14a702"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.aarch64-linux-gnu.tar.gz"
 [[GNUMake]]
 arch = "aarch64"
-git-tree-sha1 = "b6b88566365b5f88eedac983f8962c3960dab9c4"
+git-tree-sha1 = "04613cefe8eb0d55af3a01ff31db072e3cc14b7c"
 libc = "musl"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "84d0a0c27f1374aff4272f5cd06410a4aff4fa9a2475397c133655b70460793f"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "d5effce2307e63852391b806abed93fae96c473d5c917e2624e2298c42ee892f"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.aarch64-linux-musl.tar.gz"
 [[GNUMake]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a9c17786124fce2a740ccf1efd2d26447beefe3b"
+git-tree-sha1 = "f561bd590a6aa932aa3806180d69b93361f04201"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "182d0f9305541b2ab2244bd8185cf4a1bd27d724f18b5ca5d58b9232799cd3ea"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "d8e1fa4072125c3595854d58ae4a8ddea5d41ff4ef598197f0b81384a6728b41"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.armv6l-linux-gnueabihf.tar.gz"
 [[GNUMake]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6b633c544520f664bf263b8928d3d1462a2a3176"
+git-tree-sha1 = "0ac00d0052d88c28a1dba56bea2cafe70ab42c81"
 libc = "musl"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "3e3b9fb40bbf412807c3b3926627fa1be7bd94d6bf960c2932eb49c74c8af7bd"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "92a223764ffc6f8d5a7ad3b6d8b0fa402c908434fbfafc66252d739b4c344444"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.armv6l-linux-musleabihf.tar.gz"
 [[GNUMake]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3f43a440bdc9b04f8e66c126ebf9baf0327b874d"
+git-tree-sha1 = "aacecf6e1c9c2f4b45b13c5306e990c84e52486c"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "69d8554d159bf6bea48939b6fc1dec78e47ef77ec035d158d7913ca185b5aec2"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "57e9a80259ab3fc3c2eb80740b74473ec0af8e4b11e1a9de5fb9d8b30e456303"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.armv7l-linux-gnueabihf.tar.gz"
 [[GNUMake]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "88ee56153d5c7bb9e368544039b4c0844141f239"
+git-tree-sha1 = "5539235574a3db4920d6b66cb31a935faa072b4f"
 libc = "musl"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "7d70a6dfabbeed9dfe101c82bc7affb942684a3f4c65ed41b3bf741c621c16b7"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "6599534a6f5864157f475ce9313c0bf286a9beeb6d95ce9a864e4527ce26df17"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.armv7l-linux-musleabihf.tar.gz"
 [[GNUMake]]
 arch = "i686"
-git-tree-sha1 = "0b2f058ebb934845e14a866eaf7e62efa7bd77eb"
+git-tree-sha1 = "f849ed83fab5ec708e02f7c57129007fd7da4182"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "3a46a79ef0982df8d362cf0f146a7e62043b6d551569c2189dddd47db97c0b93"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.i686-linux-gnu.tar.gz"
+    sha256 = "c3b6e91ff6b91f8c4afada128557f54dc5132d7c2e872c3d911e673be04b9fc1"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.i686-linux-gnu.tar.gz"
 [[GNUMake]]
 arch = "i686"
-git-tree-sha1 = "996400d9135bc1d1475aa789365767a7d4e9bf9e"
+git-tree-sha1 = "c6a07ae5a1881c6a8a4935bfc7bf3a1e20851b4e"
 libc = "musl"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "057e7b7f76fd79cee89d3a41a2e198aacab5b55369e4f779d9f4998c42d9b5ba"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.i686-linux-musl.tar.gz"
+    sha256 = "9eecc6fa4d00722e8e5090c9652b000081901225cd8878c11c9fe9583728ec1f"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.i686-linux-musl.tar.gz"
 [[GNUMake]]
 arch = "i686"
-git-tree-sha1 = "70a2227e798bb33971258b0d572c3caa0c822299"
+git-tree-sha1 = "255645910c4b55bc49a141e917041d6008dacde6"
 os = "windows"
 
     [[GNUMake.download]]
-    sha256 = "d817876a921d2c54868fd0a1f0d8d61d6d2bc067836d876778a4b4ba8d30af76"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.i686-w64-mingw32.tar.gz"
+    sha256 = "7eed9b3ddc4d2cb0ed64f4fbe5c339d5088bc620075e050861e330e789a14bed"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.i686-w64-mingw32.tar.gz"
 [[GNUMake]]
 arch = "powerpc64le"
-git-tree-sha1 = "a6b019185931d55c08c658007ab7e16849bcef34"
+git-tree-sha1 = "fb493cac6d83d9273d94318ee010d8db7cc8bca2"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "130c5289250face703b9c90d30b262a50ffe8865dc560d194a4a874a002deb63"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "27f8f3216ee5b498942dbacd1db8012d21402aac276c95f25f60e37ba8e9e84b"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.powerpc64le-linux-gnu.tar.gz"
 [[GNUMake]]
 arch = "x86_64"
-git-tree-sha1 = "7a59ff96f3db89008abee7aca9c3ca6a59158bc0"
+git-tree-sha1 = "cb7408272413098da9d8e0f2c3c799480e9c3cca"
 os = "macos"
 
     [[GNUMake.download]]
-    sha256 = "aaaccac3e8170b76101ff6a6c2ad62d7889257ad9d9ed902f1c3d3b06c7a0857"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "e4c2ad5924b56521d9fd7646abf074d749b38a69a9d66f8918cfc72b58d6c93d"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.x86_64-apple-darwin.tar.gz"
 [[GNUMake]]
 arch = "x86_64"
-git-tree-sha1 = "6059eee9f489c45f1d5f313a3149c78f58f9091b"
+git-tree-sha1 = "5a03c6245324bf4d8a4a46b239e5f531db215738"
 libc = "glibc"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "f2860140922247f125c9028aa5f4a666ea91d0b0349e6324641c823f7bd64d30"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "9cf76de61a9c2d0cccb985310401431e2840d5b2aa7a7ab98020bd4436978474"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.x86_64-linux-gnu.tar.gz"
 [[GNUMake]]
 arch = "x86_64"
-git-tree-sha1 = "3abc43cbef13edcc903f610f5fe6c2c1a218b359"
+git-tree-sha1 = "0c1bd19c929cfb1e735454e19dbc7a8717600ea3"
 libc = "musl"
 os = "linux"
 
     [[GNUMake.download]]
-    sha256 = "f0694537889fcd0c2df5d4320b99b35e288ebd6bde78120d92a9cf03d95dca85"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.x86_64-linux-musl.tar.gz"
+    sha256 = "6695fd42f20d11d31018438b20ab944e61f3908b30d534a6a9612cf4c79dfcd6"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.x86_64-linux-musl.tar.gz"
 [[GNUMake]]
 arch = "x86_64"
-git-tree-sha1 = "f15115c811b317061e2603303be23b3d236d88df"
+git-tree-sha1 = "140429e8b26ff4e657c234c180440c87d3f0400b"
 os = "freebsd"
 
     [[GNUMake.download]]
-    sha256 = "7c9d66919ef346923a4948097239b7ec291c1fa2c1069ac68c614e70ef53b272"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a7ba1f11182fe2ec0e218a32557d318ec680990e21711ad22e4674ecab505c85"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.x86_64-unknown-freebsd.tar.gz"
 [[GNUMake]]
 arch = "x86_64"
-git-tree-sha1 = "7a3454ff270fae2c56e9bd76b24826baa8c8984a"
+git-tree-sha1 = "d95fc01e254cc5da4bf624c409085fe1625bbb1f"
 os = "windows"
 
     [[GNUMake.download]]
-    sha256 = "0b3e1c5a65a8f286c9de3eb66e8e165565d4f0661c4d973e1c5dc87e54397a04"
-    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.0+0/GNUMake.v4.4.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f16cf0487618136ac90c8523539a38f8f5ebd2b0ebdd657366975d5642334f54"
+    url = "https://github.com/JuliaBinaryWrappers/GNUMake_jll.jl/releases/download/GNUMake-v4.4.1+0/GNUMake.v4.4.1.x86_64-w64-mingw32.tar.gz"
